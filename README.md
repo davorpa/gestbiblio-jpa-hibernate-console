@@ -2,7 +2,6 @@
 
 Gestión de préstamos en una biblioteca - librería
 
-
 ## Requisitos
 
 Se quiere implementar el sistema informático para la gestión de una biblioteca. Las especificaciones funcionales son las siguientes:
